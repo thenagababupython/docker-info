@@ -34,7 +34,7 @@ cp ../ineligible/hello.go ./
 `
 
 
-untagged images is danglling images ---->docker image prune 
+untagged images is  `#ffffff` danglling images ---->docker image prune 
 
 docker container ls or docker ps
 
