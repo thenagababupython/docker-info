@@ -21,8 +21,7 @@ curl localhost:8081
 kubectl version
 kubectl get pods
 kubectl get nodes
-
-> -f == helpfull to run the other director location .
+-f == helpfull to run the other director location .
 .(dot) ---> means same directorie
 cp ../ineligible/hello.go ./
 
