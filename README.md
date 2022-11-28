@@ -1,9 +1,6 @@
-#docker overview for the project based
+# docker overview for the project based
 
-
-#docker information:
-=============================================
-##Docker overview :
+## Docker overview :
 =============================
 ```ADD 
 COPY 
