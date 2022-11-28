@@ -22,7 +22,7 @@ kubectl get pods
 kubectl get nodes
 -f == helpfull to run the other director location .
 .(dot) ---> means same directorie
-cp ../ineligible/hello.go ./
+<!-- cp ../ineligible/hello.go ./ -->
 
 how to see docker image metadata-- docker image inspect imagename(nginx)
 untagged images is danglling images ---->docker image prune 
