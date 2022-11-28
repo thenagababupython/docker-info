@@ -24,7 +24,7 @@ kubectl get nodes
 .(dot) ---> means same directorie
 cp ../ineligible/hello.go ./
 
-`how to see docker image metadata-- docker image inspect imagename(nginx)`
+``how to see docker image metadata-- docker image inspect imagename(nginx)``
 untagged images is danglling images ---->docker image prune 
 docker container ls or docker ps
 docker container rm -f nginx
