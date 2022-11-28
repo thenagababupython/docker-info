@@ -2,12 +2,14 @@
 
 ## Docker overview :
 =============================
-```ADD 
+```
+ADD 
 COPY 
 CMD 
 ENTRYPOINT 
 STOPSIGNAL
-HEALTHCHECK```
+HEALTHCHECK
+```
 
 
 ADD : similar to the COPY command ,but can also pull files using a URL and extract archive into 
