@@ -32,6 +32,8 @@ cp ../ineligible/hello.go ./
 
 `how to see docker image metadata-- docker image inspect imagename(nginx)
 `
+
+
 untagged images is danglling images ---->docker image prune 
 
 docker container ls or docker ps
