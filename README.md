@@ -30,13 +30,12 @@ kubectl get nodes
 
 cp ../ineligible/hello.go ./
 
-`
+```
 how to see docker image metadata-- docker image inspect imagename(nginx)
+```
 
-`
 
-
-untagged images is  `#ffffff` danglling images ---->docker image prune 
+untagged images is  danglling images ---->docker image prune 
 
 docker container ls or docker ps
 
