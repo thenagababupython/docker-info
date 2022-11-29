@@ -57,7 +57,10 @@ pubic registry -does not contain authatcation and tl certifacates
 
 # if you start server newly then execute this command :
 
-  ``` sudo chmod -R 777 /var/run/docker.sock ```
+  ``` 
+  sudo chmod -R 777 /var/run/docker.sock
+  
+  ```
 
 
 
