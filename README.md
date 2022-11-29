@@ -42,5 +42,22 @@ docker container ls or docker ps
 docker container rm -f nginx
 
 
+flattening of docker images ---->  forming of single layer
+
+docker image history nofloat       ---> how many layers in docker image if wnat to find use this command
+
+docker export containername  > archive file(flat.tar)
+
+docker export and import command helpfull to to reduce the layers of images .if you reduce the layers , performance will be increase.
+but size will be same.
+
+
+pubic registry -does not contain authatcation and tl certifacates 
+
+
+# if you start server newly then execute this command :
+
+  ``` sudo chmod -R 777 /var/run/docker.sock ```
+
 
 
