@@ -2,7 +2,7 @@
 
 ## Docker overview :
 =============================
-# if you start docker server newly then execute this command :
+## if you start docker server newly then execute this command :
 
   ``` 
   sudo chmod -R 777 /var/run/docker.sock
