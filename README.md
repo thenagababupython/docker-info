@@ -44,7 +44,12 @@ docker container rm -f nginx
 
 flattening of docker images ---->  forming of single layer
 
-docker image history nofloat       ---> how many layers in docker image if wnat to find use this command
+> how many layers in docker image if wnat to find use this command
+
+```
+docker image history nofloat  
+```     
+
 
 docker export containername  > archive file(flat.tar)
 
